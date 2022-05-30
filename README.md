@@ -1,2 +1,2 @@
 # penguintux
-utilities, bots, rules, articles etc.. from the penguin tux discord server.
+Penguin Tux discord sunucumuza hoş geldiniz değeri özgür yazılım severler
