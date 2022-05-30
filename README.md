@@ -5,4 +5,18 @@ yeni ortaklar edinebileceğiniz, projenizin hakkında fikir alışverişi yapabi
 Umarım keyifli vakit geçirirsiniz :).
 
 # Kurallar
-> 
+* **argo** kelime kullanımı yasaktır hem ahlaki olarak olumsuz bir davranıştır hem birbirimizin dostluklarını kötü etkiler.
+* **ırkçılık** yapılması uygun değildir bu yüzden ırkçılık yapılmamasını rica ederiz.
+* **reklam**, **spam**, **flood** gibi hoş görülmeyen davranışlar yasaktır lütfen başkalarının da olduğunu unutmayalım.
+* sunucu üyelerini gerek özelden gerek sunucu içerisinden **rahatsız etmek** (reklam yapmak, hakaret etmek, görüşünü küçümsemek, şahsını küçümsemek.. vb.) yasaktır, unutmayın sadece sizin duygularınız yok karşınızda ki de insan.
+* **kanalları** amacına uygun kullanmaya özen gösterelim.
+* özellikle **dini** değerler konusunda olabildiğince saygılı bir şekilde hitap etmeye özen gösterelim bu tür konularda tahammül gösterilmeyecektir.
+* lütfen gereksiz konularda ve de özellikle **dini** konularda **münazaraya** girmeyelim burası münazara sunucusu değildir, münazara etmek isteyenler arkadaşlar karşıt görüşteki sunuculara gidebilirler. (İsteyen olur ise özelden bana ulaşabilir o konuda yardımcı olurum).
+<p align="center"><img src="https://c.tenor.com/dyjbZoINqZUAAAAC/cat-funny.gif"></img></p>
+
+# Topluluk Projelerimiz
+* [Pnm Linux]() - Pnm linux source code for build the iso, using archiso.
+* [Mathen]() - A.E.N Mathen Project created with godot engine.
+* [BCHackTool]() - ByCh4n's multi tool kit written in bash.
+* [Conky Widgets]() - Widgets that you can beautify your desktop prepared for conky. Automatic installation can start quickly.
+* [Themispkg]() - Cross platform unix* package manager more like scripts written in bash.
