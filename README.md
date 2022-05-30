@@ -12,7 +12,7 @@ Umarım keyifli vakit geçirirsiniz :).
 * **kanalları** amacına uygun kullanmaya özen gösterelim.
 * özellikle **dini** değerler konusunda olabildiğince saygılı bir şekilde hitap etmeye özen gösterelim bu tür konularda tahammül gösterilmeyecektir.
 * lütfen gereksiz konularda ve de özellikle **dini** konularda **münazaraya** girmeyelim burası münazara sunucusu değildir, münazara etmek isteyenler arkadaşlar karşıt görüşteki sunuculara gidebilirler. (İsteyen olur ise özelden bana ulaşabilir o konuda yardımcı olurum).
-<p align="center"><img src="https://c.tenor.com/dyjbZoINqZUAAAAC/cat-funny.gif"></p>
+<p align="center"><img src="https://c.tenor.com/dyjbZoINqZUAAAAC/cat-funny.gif" width="450" height="400"></p>
 
 # Topluluk Projelerimiz
 * [Pnm Linux]() - Pnm linux source code for build the iso, using archiso.
@@ -20,3 +20,4 @@ Umarım keyifli vakit geçirirsiniz :).
 * [BCHackTool]() - ByCh4n's multi tool kit written in bash.
 * [Conky Widgets]() - Widgets that you can beautify your desktop prepared for conky. Automatic installation can start quickly.
 * [Themispkg]() - Cross platform unix* package manager more like scripts written in bash.
+<p align="center"><img src="https://cdn.dribbble.com/users/420183/screenshots/2875637/octocat_github.gif" width="450" height="400"></p>
