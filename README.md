@@ -12,7 +12,7 @@ Umarım keyifli vakit geçirirsiniz :).
 * **kanalları** amacına uygun kullanmaya özen gösterelim.
 * özellikle **dini** değerler konusunda olabildiğince saygılı bir şekilde hitap etmeye özen gösterelim bu tür konularda tahammül gösterilmeyecektir.
 * lütfen gereksiz konularda ve de özellikle **dini** konularda **münazaraya** girmeyelim burası münazara sunucusu değildir, münazara etmek isteyenler arkadaşlar karşıt görüşteki sunuculara gidebilirler. (İsteyen olur ise özelden bana ulaşabilir o konuda yardımcı olurum).
-<p align="center"><img src="https://c.tenor.com/dyjbZoINqZUAAAAC/cat-funny.gif"></img></p>
+<p align="center"><img src="https://c.tenor.com/dyjbZoINqZUAAAAC/cat-funny.gif"></p>
 
 # Topluluk Projelerimiz
 * [Pnm Linux]() - Pnm linux source code for build the iso, using archiso.
