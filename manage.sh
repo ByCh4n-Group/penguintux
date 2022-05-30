@@ -33,6 +33,29 @@ get:discordsh() (
     fi
 )
 
+setup:lockserver() (
+    local i="" status="true"
+
+    for i in "python3" "pip3" "make" ; do
+        if ! command -v "${i}" &> /dev/null ; then
+            echo "'${i}' not found..[-]"
+            export status="false"
+        fi
+    done
+
+    if [[ "${status}" = "false" ]] ; then
+        echo "requirements could not be resolved, this is a fatal error."
+        return 1
+    fi
+    
+    if [[ -d "${BOT}/lockserver" ]] ; then
+        cd "${BOT}/lockserver"
+        make build
+    else
+        return 1
+    fi
+)
+
 tmp:manager() {
     case "${1}" in
         --create|-c)
@@ -85,6 +108,10 @@ if ! [[ -d "${TOOL}" ]] ; then
     mkdir -p "${TOOL}"
 fi
 
+if ! [[ -d "${BOT}" ]] ; then
+    mkdir -p "${TOOL}"
+fi
+
 export PATH="${PATH}:${BIN}"
 
 # Update permissions.
@@ -110,7 +137,10 @@ while [[ "${#}" -gt 0 ]] ; do
             exit "$?"
         ;;
         --lockserver|-l)
-
+            shift
+            setup:lockserver || exit "$?"
+            
+            exit "$?"
         ;;
         *)
             echo "'${1}' unknown argument."
