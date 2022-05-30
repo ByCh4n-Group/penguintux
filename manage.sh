@@ -75,6 +75,16 @@ fi
 
 # Get additional configurations.
 source "conf.sh"
+
+# Setup dirs.
+if ! [[ -d "${BIN}" ]] ; then
+    mkdir -p "${BIN}"
+fi
+
+if ! [[ -d "${TOOL}" ]] ; then
+    mkdir -p "${TOOL}"
+fi
+
 export PATH="${PATH}:${BIN}"
 
 # Update permissions.
@@ -100,7 +110,7 @@ while [[ "${#}" -gt 0 ]] ; do
             exit "$?"
         ;;
         --lockserver|-l)
-            
+
         ;;
         *)
             echo "'${1}' unknown argument."
