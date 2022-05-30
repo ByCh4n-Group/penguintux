@@ -1,1 +1,0 @@
-/home/user/Projects/penguintux/auxiliaries/discord.sh/discord.sh
