@@ -22,6 +22,8 @@ Umarım keyifli vakit geçirirsiniz :).
 * [Themispkg](https://bych4n-group.github.io/penguintux/site/themispkg.html) - Unix* Çapraz platform paket yöneticisi daha çok scripter için kullanılır, bash ile yazılmıştır.
 <p align="center"><img src="https://cdn.dribbble.com/users/420183/screenshots/2875637/octocat_github.gif" width="450" height="400"></p>
 
-# [Yazılarımız]()
+# [Yazılarımız](https://github.com/ByCh4n-Group/penguintux/wiki)
+Yazılarımız kısmında gitwiki'yi kullanmaktayız burada özgür yazılım teknolojileri hakkında merak ettiklerimizi, incelediklerimizi ve bildiklerimizi paylaşacağız, hatta isterseniz siz de bize katılararak wiki'ye katkıda bulunabilirsiniz.
 
 # [CliMagic]()
+[CliMagic]() sayfasında kullanışlı ve ilginç komutların yanı sıra nadir ve sık karşılaşılan hataların çözümleri, araç kullanımları vb.. bilgileri paylaşacağız.
