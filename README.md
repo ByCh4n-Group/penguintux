@@ -15,7 +15,7 @@ Umarım keyifli vakit geçirirsiniz :).
 <p align="center"><img src="https://c.tenor.com/dyjbZoINqZUAAAAC/cat-funny.gif" width="450" height="400"></p>
 
 # Topluluk Projelerimiz
-* [Pnm Linux](https://bych4n-group.github.io/penguintux/site/pnmlinux.html) - Pnm linux'un kaynak kodu iso derleyicisidir, açık kaynaklıdır, archiso kullanır.
+* [Pnm Linux](https://bych4n-group.github.io/penguintux/site/pnmlinux.html) - Pnm linux, Arch tabanı kullanan son kullanıcı odaklı bir dağıtımdır.
 * [Mathen](https://bych4n-group.github.io/penguintux/site/mathen.html) - Mathen Projesi A.E.N dostumuz tarafından matematiksel işlemleri kolayca hesaplamak için yazıldı ve godot motorunu kullanır son derece estetik bir arayüze sahiptir.
 * [BCHackTool](https://bych4n-group.github.io/penguintux/site/bchacktool.html) - BCHackTool isveç çakısı(çoklu araç) en çok işlevi olan siber güvenlik araçlarının bir arada derlenmiş halidir tamamen açık kaynaklı ve özgür yazılımdır.
 * [Conky Widgets](https://bych4n-group.github.io/penguintux/site/conkywidgets.html) - Conky widgetleri ile masaüstünüze şık bir hava katın. Otomatik kurulum ve kolay bir başlangıç da bizden.
